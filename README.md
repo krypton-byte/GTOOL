@@ -9,5 +9,5 @@ pip2 install requests<br>
 git clone https://github.com/puja04122003/GTOOL<br>
 cd GTOOL<br>
 python2 main.py<br>
-
+<img src="gtool.png" width="250px" heigh="500px">
 <b>#tools serbaguna dengan tampilan mirip komputer di era 90 an<br></b>
